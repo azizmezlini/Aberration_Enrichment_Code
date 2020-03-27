@@ -1,5 +1,6 @@
 This folder contains all the code we used to process the data in our paper. 
-To simply use our test on your own processed variable you only need the file Rproject/functions.r.
+To simply use our test on your own processed variable you only need the file Rproject/functions.r. Or look for our better documented CRAN package “aziztest”.
+The other files and folders contain code that we used for simulations, real data processing and figure generation. We are posting it here for reproducibility purposes.
 To use our test, first load the file Rproject/functions.r:  source("Rproject/functions.r")
 Then simply call: 
 
